@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="chartfx-chart-11.2.7">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/jar/chartfx-chart-11.2.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

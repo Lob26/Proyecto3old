@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/jar/chartfx-chart-11.2.7.jar"/>
+	<classpathentry kind="lib" path="lib/jar/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="lib/jar/joda-time-2.10.14.jar"/>
+	<classpathentry kind="lib" path="lib/jar/swingx-1.6.1.jar"/>
+	<classpathentry kind="lib" path="lib/sources/chartfx-chart-11.2.7-sources.jar"/>
+	<classpathentry kind="lib" path="lib/sources/jcalendar-1.4-sources.jar"/>
+	<classpathentry kind="lib" path="lib/sources/joda-time-2.10.14-sources.jar"/>
+	<classpathentry kind="lib" path="lib/sources/swingx-1.6.1-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
